@@ -1,0 +1,13 @@
+current directory: /Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+/Users/fouedjaridi/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/fouedjaridi/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20230428-63274-mo1xm5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install

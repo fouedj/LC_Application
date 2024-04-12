@@ -1,0 +1,1221 @@
+{
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/index.ts": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "6344bf2c52cd7ec201ed61e1e6158c1b43476473"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Box/index.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Box/index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 3, "column": 12},
+        "end": {"line": 3, "column": 24}
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {"0": 5},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "4fedfdcf3a2e98035f25bc0f4b72272745d61a77"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Container/index.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Container/index.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 8, "column": 2}, "end": {"line": 12, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "Container",
+        "decl": {
+          "start": {"line": 7, "column": 24},
+          "end": {"line": 7, "column": 33}
+        },
+        "loc": {
+          "start": {"line": 7, "column": 53},
+          "end": {"line": 13, "column": 1}
+        },
+        "line": 7
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 2},
+    "f": {"0": 2},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "5f01fa06a03dd41ed093dcfe2f8ab732a3fbcb82"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Footer/index.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Footer/index.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 6, "column": 2}, "end": {"line": 10, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "Footer",
+        "decl": {
+          "start": {"line": 5, "column": 24},
+          "end": {"line": 5, "column": 30}
+        },
+        "loc": {
+          "start": {"line": 5, "column": 33},
+          "end": {"line": 11, "column": 1}
+        },
+        "line": 5
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 1},
+    "f": {"0": 1},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "1fc12d0a7a0d6afc6d9f31d83a05af3b2e77ba79"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Header/index.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Header/index.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 6, "column": 2}, "end": {"line": 12, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "Header",
+        "decl": {
+          "start": {"line": 5, "column": 24},
+          "end": {"line": 5, "column": 30}
+        },
+        "loc": {
+          "start": {"line": 5, "column": 33},
+          "end": {"line": 13, "column": 1}
+        },
+        "line": 5
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 1},
+    "f": {"0": 1},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "ea971cec7b7ad2cda1574b82497c05f245411c64"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/FavoriteIcons.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/FavoriteIcons.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 3, "column": 22},
+        "end": {"line": 31, "column": 1}
+      },
+      "1": {"start": {"line": 4, "column": 2}, "end": {"line": 30, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {"line": 3, "column": 22},
+          "end": {"line": 3, "column": 23}
+        },
+        "loc": {
+          "start": {"line": 3, "column": 38},
+          "end": {"line": 31, "column": 1}
+        },
+        "line": 3
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 12, "column": 7},
+          "end": {"line": 28, "column": 7}
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {"line": 13, "column": 8},
+            "end": {"line": 19, "column": 10}
+          },
+          {
+            "start": {"line": 21, "column": 8},
+            "end": {"line": 27, "column": 10}
+          }
+        ],
+        "line": 12
+      }
+    },
+    "s": {"0": 2, "1": 2},
+    "f": {"0": 2},
+    "b": {"0": [1, 1]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "89210ec6457eb44abd0b8a5e510c0d1027dfcb5b"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/GoBackIcon.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/GoBackIcon.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 12, "column": 18},
+        "end": {"line": 12, "column": 42}
+      },
+      "1": {
+        "start": {"line": 14, "column": 21},
+        "end": {"line": 14, "column": 36}
+      },
+      "2": {
+        "start": {"line": 15, "column": 2},
+        "end": {"line": 42, "column": 4}
+      },
+      "3": {
+        "start": {"line": 17, "column": 21},
+        "end": {"line": 17, "column": 40}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "GoBackIcon",
+        "decl": {
+          "start": {"line": 13, "column": 9},
+          "end": {"line": 13, "column": 19}
+        },
+        "loc": {
+          "start": {"line": 13, "column": 34},
+          "end": {"line": 43, "column": 1}
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {"line": 17, "column": 15},
+          "end": {"line": 17, "column": 16}
+        },
+        "loc": {
+          "start": {"line": 17, "column": 21},
+          "end": {"line": 17, "column": 40}
+        },
+        "line": 17
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 19, "column": 39},
+          "end": {"line": 19, "column": 77}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 19, "column": 39},
+            "end": {"line": 19, "column": 58}
+          },
+          {
+            "start": {"line": 19, "column": 62},
+            "end": {"line": 19, "column": 77}
+          }
+        ],
+        "line": 19
+      },
+      "1": {
+        "loc": {
+          "start": {"line": 38, "column": 7},
+          "end": {"line": 40, "column": 7}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 38, "column": 7},
+            "end": {"line": 38, "column": 22}
+          },
+          {
+            "start": {"line": 38, "column": 26},
+            "end": {"line": 38, "column": 45}
+          },
+          {
+            "start": {"line": 39, "column": 8},
+            "end": {"line": 39, "column": 63}
+          }
+        ],
+        "line": 38
+      }
+    },
+    "s": {"0": 3, "1": 1, "2": 1, "3": 1},
+    "f": {"0": 1, "1": 1},
+    "b": {"0": [1, 1], "1": [1, 1, 1]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "efbbacc1d1542c8b5a043bbc715e92133ff0074b"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/HomeIcons.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/HomeIcons.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 5, "column": 2}, "end": {"line": 29, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "HomeIcon",
+        "decl": {
+          "start": {"line": 4, "column": 9},
+          "end": {"line": 4, "column": 17}
+        },
+        "loc": {
+          "start": {"line": 4, "column": 30},
+          "end": {"line": 30, "column": 1}
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 13, "column": 7},
+          "end": {"line": 27, "column": 7}
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {"line": 14, "column": 8},
+            "end": {"line": 20, "column": 10}
+          },
+          {
+            "start": {"line": 22, "column": 8},
+            "end": {"line": 26, "column": 10}
+          }
+        ],
+        "line": 13
+      }
+    },
+    "s": {"0": 2},
+    "f": {"0": 2},
+    "b": {"0": [1, 1]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "6b04da3053e94bd6359e369d78b079826ab63cae"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/MyAccountIcons.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/MyAccountIcons.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 5, "column": 2}, "end": {"line": 35, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "MyAccountIcons",
+        "decl": {
+          "start": {"line": 4, "column": 24},
+          "end": {"line": 4, "column": 38}
+        },
+        "loc": {
+          "start": {"line": 4, "column": 51},
+          "end": {"line": 36, "column": 1}
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 5, "column": 9},
+          "end": {"line": 35, "column": 3}
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {"line": 6, "column": 4},
+            "end": {"line": 20, "column": 10}
+          },
+          {
+            "start": {"line": 22, "column": 4},
+            "end": {"line": 34, "column": 10}
+          }
+        ],
+        "line": 5
+      }
+    },
+    "s": {"0": 2},
+    "f": {"0": 2},
+    "b": {"0": [1, 1]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "8a2054de252db3d080bebcdc0bfababf62f28447"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/SearchIcons.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Icons/SearchIcons.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 5, "column": 2}, "end": {"line": 41, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "SearchIcons",
+        "decl": {
+          "start": {"line": 4, "column": 9},
+          "end": {"line": 4, "column": 20}
+        },
+        "loc": {
+          "start": {"line": 4, "column": 33},
+          "end": {"line": 42, "column": 1}
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 5, "column": 9},
+          "end": {"line": 41, "column": 3}
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {"line": 6, "column": 4},
+            "end": {"line": 24, "column": 10}
+          },
+          {
+            "start": {"line": 26, "column": 4},
+            "end": {"line": 40, "column": 10}
+          }
+        ],
+        "line": 5
+      }
+    },
+    "s": {"0": 2},
+    "f": {"0": 2},
+    "b": {"0": [1, 1]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "13fc214054f769fc8263eebc84495514a51e38fe"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Text/index.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/components/Text/index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 3, "column": 13},
+        "end": {"line": 3, "column": 27}
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {"0": 5},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "3a063999432f88accebf9639773dfae2fea44322"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/config/constants.ts": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/config/constants.ts",
+    "statementMap": {
+      "0": {
+        "start": {"line": 2, "column": 28},
+        "end": {"line": 2, "column": 30}
+      },
+      "1": {
+        "start": {"line": 3, "column": 34},
+        "end": {"line": 11, "column": 1}
+      },
+      "2": {
+        "start": {"line": 10, "column": 4},
+        "end": {"line": 10, "column": 59}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {"line": 9, "column": 18},
+          "end": {"line": 9, "column": 19}
+        },
+        "loc": {
+          "start": {"line": 10, "column": 4},
+          "end": {"line": 10, "column": 59}
+        },
+        "line": 10
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 4, "column": 15},
+          "end": {"line": 4, "column": 39}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 4, "column": 15},
+            "end": {"line": 4, "column": 33}
+          },
+          {"start": {"line": 4, "column": 37}, "end": {"line": 4, "column": 39}}
+        ],
+        "line": 4
+      },
+      "1": {
+        "loc": {
+          "start": {"line": 5, "column": 15},
+          "end": {"line": 5, "column": 44}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 5, "column": 15},
+            "end": {"line": 5, "column": 38}
+          },
+          {"start": {"line": 5, "column": 42}, "end": {"line": 5, "column": 44}}
+        ],
+        "line": 5
+      },
+      "2": {
+        "loc": {
+          "start": {"line": 6, "column": 22},
+          "end": {"line": 6, "column": 60}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 6, "column": 22},
+            "end": {"line": 6, "column": 54}
+          },
+          {"start": {"line": 6, "column": 58}, "end": {"line": 6, "column": 60}}
+        ],
+        "line": 6
+      },
+      "3": {
+        "loc": {
+          "start": {"line": 7, "column": 22},
+          "end": {"line": 7, "column": 60}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 7, "column": 22},
+            "end": {"line": 7, "column": 54}
+          },
+          {"start": {"line": 7, "column": 58}, "end": {"line": 7, "column": 60}}
+        ],
+        "line": 7
+      },
+      "4": {
+        "loc": {
+          "start": {"line": 8, "column": 11},
+          "end": {"line": 8, "column": 33}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 8, "column": 11},
+            "end": {"line": 8, "column": 27}
+          },
+          {"start": {"line": 8, "column": 31}, "end": {"line": 8, "column": 33}}
+        ],
+        "line": 8
+      }
+    },
+    "s": {"0": 3, "1": 3, "2": 1},
+    "f": {"0": 1},
+    "b": {"0": [3, 3], "1": [3, 3], "2": [3, 3], "3": [3, 3], "4": [3, 3]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "02a55dc43d6a62c33a9c0901d1ef2cd5ad5781de"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/recoil/announce.ts": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/recoil/announce.ts",
+    "statementMap": {
+      "0": {
+        "start": {"line": 3, "column": 17},
+        "end": {"line": 6, "column": 2}
+      },
+      "1": {
+        "start": {"line": 8, "column": 24},
+        "end": {"line": 10, "column": 1}
+      },
+      "2": {
+        "start": {"line": 9, "column": 2},
+        "end": {"line": 9, "column": 34}
+      },
+      "3": {
+        "start": {"line": 11, "column": 25},
+        "end": {"line": 13, "column": 1}
+      },
+      "4": {
+        "start": {"line": 12, "column": 2},
+        "end": {"line": 12, "column": 37}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {"line": 8, "column": 24},
+          "end": {"line": 8, "column": 25}
+        },
+        "loc": {
+          "start": {"line": 8, "column": 30},
+          "end": {"line": 10, "column": 1}
+        },
+        "line": 8
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {"line": 11, "column": 25},
+          "end": {"line": 11, "column": 26}
+        },
+        "loc": {
+          "start": {"line": 11, "column": 31},
+          "end": {"line": 13, "column": 1}
+        },
+        "line": 11
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 2, "1": 2, "2": 1, "3": 2, "4": 3},
+    "f": {"0": 1, "1": 3},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "2ee45cc91e9c255f069b3cc8f395a86dd19211db"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/DetailsAnnounce.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/DetailsAnnounce.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 21, "column": 21},
+        "end": {"line": 21, "column": 33}
+      },
+      "1": {
+        "start": {"line": 22, "column": 23},
+        "end": {"line": 22, "column": 40}
+      },
+      "2": {
+        "start": {"line": 23, "column": 29},
+        "end": {"line": 23, "column": 54}
+      },
+      "3": {
+        "start": {"line": 24, "column": 16},
+        "end": {"line": 24, "column": 28}
+      },
+      "4": {
+        "start": {"line": 25, "column": 2},
+        "end": {"line": 34, "column": 19}
+      },
+      "5": {
+        "start": {"line": 26, "column": 4},
+        "end": {"line": 33, "column": 7}
+      },
+      "6": {
+        "start": {"line": 29, "column": 8},
+        "end": {"line": 31, "column": 17}
+      },
+      "7": {
+        "start": {"line": 35, "column": 2},
+        "end": {"line": 65, "column": 4}
+      },
+      "8": {
+        "start": {"line": 42, "column": 22},
+        "end": {"line": 42, "column": 27}
+      },
+      "9": {
+        "start": {"line": 43, "column": 8},
+        "end": {"line": 45, "column": 9}
+      },
+      "10": {
+        "start": {"line": 44, "column": 10},
+        "end": {"line": 44, "column": 53}
+      },
+      "11": {
+        "start": {"line": 51, "column": 8},
+        "end": {"line": 62, "column": 10}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "DetailsAnnounce",
+        "decl": {
+          "start": {"line": 18, "column": 24},
+          "end": {"line": 18, "column": 39}
+        },
+        "loc": {
+          "start": {"line": 20, "column": 34},
+          "end": {"line": 66, "column": 1}
+        },
+        "line": 20
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {"line": 25, "column": 24},
+          "end": {"line": 25, "column": 25}
+        },
+        "loc": {
+          "start": {"line": 25, "column": 30},
+          "end": {"line": 34, "column": 3}
+        },
+        "line": 25
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {"line": 28, "column": 18},
+          "end": {"line": 28, "column": 19}
+        },
+        "loc": {
+          "start": {"line": 28, "column": 27},
+          "end": {"line": 32, "column": 7}
+        },
+        "line": 28
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {"line": 41, "column": 31},
+          "end": {"line": 41, "column": 32}
+        },
+        "loc": {
+          "start": {"line": 41, "column": 40},
+          "end": {"line": 46, "column": 7}
+        },
+        "line": 41
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {"line": 50, "column": 21},
+          "end": {"line": 50, "column": 22}
+        },
+        "loc": {
+          "start": {"line": 50, "column": 27},
+          "end": {"line": 63, "column": 7}
+        },
+        "line": 50
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 29, "column": 15},
+          "end": {"line": 31, "column": 16}
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {"line": 30, "column": 10},
+            "end": {"line": 30, "column": 49}
+          },
+          {
+            "start": {"line": 31, "column": 12},
+            "end": {"line": 31, "column": 16}
+          }
+        ],
+        "line": 29
+      },
+      "1": {
+        "loc": {
+          "start": {"line": 43, "column": 8},
+          "end": {"line": 45, "column": 9}
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {"line": 43, "column": 8},
+            "end": {"line": 45, "column": 9}
+          },
+          {"start": {}, "end": {}}
+        ],
+        "line": 43
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0
+    },
+    "f": {"0": 1, "1": 1, "2": 0, "3": 0, "4": 0},
+    "b": {"0": [0, 0], "1": [0, 0]},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "59246b4569e775683ea1b884f2dda0ccadbcd8fa"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Favorites.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Favorites.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 5, "column": 2}, "end": {"line": 9, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "Favorites",
+        "decl": {
+          "start": {"line": 4, "column": 24},
+          "end": {"line": 4, "column": 33}
+        },
+        "loc": {
+          "start": {"line": 4, "column": 36},
+          "end": {"line": 10, "column": 1}
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 1},
+    "f": {"0": 1},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "2ad77a145a44b312d1dfc10e575c0adb8f71ec7c"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Home.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Home.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 15, "column": 13},
+        "end": {"line": 45, "column": 1}
+      },
+      "1": {
+        "start": {"line": 23, "column": 2},
+        "end": {"line": 44, "column": 4}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {"line": 15, "column": 13},
+          "end": {"line": 15, "column": 14}
+        },
+        "loc": {
+          "start": {"line": 15, "column": 19},
+          "end": {"line": 45, "column": 1}
+        },
+        "line": 15
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 2, "1": 1},
+    "f": {"0": 1},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "7a4978f3dfbcd350c868b1c920008b42be208e68"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/MyAccount.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/MyAccount.tsx",
+    "statementMap": {
+      "0": {"start": {"line": 5, "column": 2}, "end": {"line": 9, "column": 4}}
+    },
+    "fnMap": {
+      "0": {
+        "name": "MyAccount",
+        "decl": {
+          "start": {"line": 4, "column": 24},
+          "end": {"line": 4, "column": 33}
+        },
+        "loc": {
+          "start": {"line": 4, "column": 36},
+          "end": {"line": 10, "column": 1}
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {"0": 1},
+    "f": {"0": 1},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "72156822029efd9a455e5f95dcd540e611a20e4a"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Search.tsx": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/screens/Search.tsx",
+    "statementMap": {
+      "0": {
+        "start": {"line": 21, "column": 31},
+        "end": {"line": 113, "column": 1}
+      },
+      "1": {
+        "start": {"line": 28, "column": 21},
+        "end": {"line": 28, "column": 42}
+      },
+      "2": {
+        "start": {"line": 29, "column": 24},
+        "end": {"line": 29, "column": 41}
+      },
+      "3": {
+        "start": {"line": 30, "column": 29},
+        "end": {"line": 30, "column": 54}
+      },
+      "4": {
+        "start": {"line": 31, "column": 16},
+        "end": {"line": 31, "column": 28}
+      },
+      "5": {
+        "start": {"line": 32, "column": 2},
+        "end": {"line": 32, "column": 66}
+      },
+      "6": {
+        "start": {"line": 33, "column": 2},
+        "end": {"line": 112, "column": 4}
+      },
+      "7": {
+        "start": {"line": 56, "column": 12},
+        "end": {"line": 56, "column": 80}
+      },
+      "8": {
+        "start": {"line": 57, "column": 12},
+        "end": {"line": 70, "column": 13}
+      },
+      "9": {
+        "start": {"line": 61, "column": 14},
+        "end": {"line": 61, "column": 56}
+      },
+      "10": {
+        "start": {"line": 62, "column": 14},
+        "end": {"line": 62, "column": 48}
+      },
+      "11": {
+        "start": {"line": 64, "column": 16},
+        "end": {"line": 67, "column": 23}
+      },
+      "12": {
+        "start": {"line": 68, "column": 14},
+        "end": {"line": 68, "column": 42}
+      },
+      "13": {
+        "start": {"line": 69, "column": 14},
+        "end": {"line": 69, "column": 67}
+      },
+      "14": {
+        "start": {"line": 71, "column": 12},
+        "end": {"line": 73, "column": 13}
+      },
+      "15": {
+        "start": {"line": 72, "column": 14},
+        "end": {"line": 72, "column": 37}
+      },
+      "16": {
+        "start": {"line": 72, "column": 28},
+        "end": {"line": 72, "column": 35}
+      },
+      "17": {
+        "start": {"line": 76, "column": 12},
+        "end": {"line": 77, "column": 60}
+      },
+      "18": {
+        "start": {"line": 91, "column": 26},
+        "end": {"line": 91, "column": 73}
+      },
+      "19": {
+        "start": {"line": 93, "column": 12},
+        "end": {"line": 93, "column": 59}
+      },
+      "20": {
+        "start": {"line": 96, "column": 12},
+        "end": {"line": 107, "column": 14}
+      },
+      "21": {
+        "start": {"line": 117, "column": 15},
+        "end": {"line": 122, "column": 1}
+      },
+      "22": {
+        "start": {"line": 118, "column": 24},
+        "end": {"line": 118, "column": 42}
+      },
+      "23": {
+        "start": {"line": 119, "column": 2},
+        "end": {"line": 121, "column": 4}
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {"line": 21, "column": 31},
+          "end": {"line": 21, "column": 32}
+        },
+        "loc": {
+          "start": {"line": 21, "column": 69},
+          "end": {"line": 113, "column": 1}
+        },
+        "line": 21
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {"line": 55, "column": 35},
+          "end": {"line": 55, "column": 36}
+        },
+        "loc": {
+          "start": {"line": 55, "column": 44},
+          "end": {"line": 74, "column": 11}
+        },
+        "line": 55
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {"line": 72, "column": 21},
+          "end": {"line": 72, "column": 22}
+        },
+        "loc": {
+          "start": {"line": 72, "column": 28},
+          "end": {"line": 72, "column": 35}
+        },
+        "line": 72
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {"line": 75, "column": 23},
+          "end": {"line": 75, "column": 24}
+        },
+        "loc": {
+          "start": {"line": 76, "column": 12},
+          "end": {"line": 77, "column": 60}
+        },
+        "line": 76
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {"line": 79, "column": 23},
+          "end": {"line": 79, "column": 24}
+        },
+        "loc": {"start": {}, "end": {}}
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {"line": 91, "column": 19},
+          "end": {"line": 91, "column": 20}
+        },
+        "loc": {
+          "start": {"line": 91, "column": 26},
+          "end": {"line": 91, "column": 73}
+        },
+        "line": 91
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": {"line": 92, "column": 23},
+          "end": {"line": 92, "column": 24}
+        },
+        "loc": {
+          "start": {"line": 93, "column": 12},
+          "end": {"line": 93, "column": 59}
+        },
+        "line": 93
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": {"line": 95, "column": 25},
+          "end": {"line": 95, "column": 26}
+        },
+        "loc": {
+          "start": {"line": 95, "column": 31},
+          "end": {"line": 108, "column": 11}
+        },
+        "line": 95
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": {"line": 117, "column": 15},
+          "end": {"line": 117, "column": 16}
+        },
+        "loc": {
+          "start": {"line": 117, "column": 38},
+          "end": {"line": 122, "column": 1}
+        },
+        "line": 117
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {"line": 57, "column": 12},
+          "end": {"line": 70, "column": 13}
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {"line": 57, "column": 12},
+            "end": {"line": 70, "column": 13}
+          },
+          {"start": {}, "end": {}}
+        ],
+        "line": 57
+      },
+      "1": {
+        "loc": {
+          "start": {"line": 58, "column": 14},
+          "end": {"line": 59, "column": 71}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 58, "column": 14},
+            "end": {"line": 58, "column": 71}
+          },
+          {
+            "start": {"line": 59, "column": 14},
+            "end": {"line": 59, "column": 71}
+          }
+        ],
+        "line": 58
+      },
+      "2": {
+        "loc": {
+          "start": {"line": 64, "column": 16},
+          "end": {"line": 67, "column": 23}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 64, "column": 16},
+            "end": {"line": 67, "column": 17}
+          },
+          {
+            "start": {"line": 67, "column": 21},
+            "end": {"line": 67, "column": 23}
+          }
+        ],
+        "line": 64
+      },
+      "3": {
+        "loc": {
+          "start": {"line": 71, "column": 12},
+          "end": {"line": 73, "column": 13}
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {"line": 71, "column": 12},
+            "end": {"line": 73, "column": 13}
+          },
+          {"start": {}, "end": {}}
+        ],
+        "line": 71
+      },
+      "4": {
+        "loc": {
+          "start": {"line": 76, "column": 12},
+          "end": {"line": 77, "column": 60}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 76, "column": 12},
+            "end": {"line": 76, "column": 37}
+          },
+          {
+            "start": {"line": 77, "column": 12},
+            "end": {"line": 77, "column": 60}
+          }
+        ],
+        "line": 76
+      },
+      "5": {
+        "loc": {
+          "start": {"line": 91, "column": 26},
+          "end": {"line": 91, "column": 73}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 91, "column": 26},
+            "end": {"line": 91, "column": 51}
+          },
+          {
+            "start": {"line": 91, "column": 55},
+            "end": {"line": 91, "column": 73}
+          }
+        ],
+        "line": 91
+      },
+      "6": {
+        "loc": {
+          "start": {"line": 93, "column": 12},
+          "end": {"line": 93, "column": 59}
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {"line": 93, "column": 12},
+            "end": {"line": 93, "column": 37}
+          },
+          {
+            "start": {"line": 93, "column": 41},
+            "end": {"line": 93, "column": 59}
+          }
+        ],
+        "line": 93
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 4,
+      "2": 4,
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 4,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 4,
+      "21": 2,
+      "22": 3,
+      "23": 3
+    },
+    "f": {
+      "0": 4,
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 4,
+      "8": 3
+    },
+    "b": {
+      "0": [1, 0],
+      "1": [1, 0],
+      "2": [1, 1],
+      "3": [0, 1],
+      "4": [0, 0],
+      "5": [0, 0],
+      "6": [0, 0]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "83c07a00b551e426cf0518435a35e9c0604fe7ba"
+  },
+  "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/styles/colors.ts": {
+    "path": "/Users/fouedjaridi/Documents/Job/LCApplication/lcApplication/App/styles/colors.ts",
+    "statementMap": {
+      "0": {
+        "start": {"line": 1, "column": 23},
+        "end": {"line": 1, "column": 29}
+      },
+      "1": {
+        "start": {"line": 2, "column": 19},
+        "end": {"line": 2, "column": 24}
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {"0": 2, "1": 2},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "b876d4e7c59b44c39a19d893515fe1125ea02f73"
+  }
+}

@@ -1,33 +1,52 @@
+# Mac OS files
+.DS_Store
+
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
 # Gradle files
-.gradle/
-build/
+android/.gradle
+android/app/.externalNativeBuild
+android/app/build
 
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
+# IntelliJ / Android Studio files
+.idea
 *.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+*.ipr
+*.iws
 
-# Keystore files
+# Visual Studio Code files
+.vscode/
+
+# Android / iOS build directories
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Android / iOS dependencies
+android/build/
+ios/build/
+ios/Pods/
+
+# Android / iOS binaries
+android/app/build/*.apk
+android/app/build/*.aab
+ios/build/*
+
+# Generated files
+*.log
+*.tmp
+*.apk
+*.aab
 *.jks
-*.keystore
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Expo build directories
+.expo
+.expo-shared
 
-# Android Profiling
-*.hprof
+# Environment files
+.env.development
+.env.stage
+.env.production
