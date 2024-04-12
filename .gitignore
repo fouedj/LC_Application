@@ -1,0 +1,52 @@
+# Mac OS files
+.DS_Store
+
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle files
+android/.gradle
+android/app/.externalNativeBuild
+android/app/build
+
+# IntelliJ / Android Studio files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code files
+.vscode/
+
+# Android / iOS build directories
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Android / iOS dependencies
+android/build/
+ios/build/
+ios/Pods/
+
+# Android / iOS binaries
+android/app/build/*.apk
+android/app/build/*.aab
+ios/build/*
+
+# Generated files
+*.log
+*.tmp
+*.apk
+*.aab
+*.jks
+
+# Expo build directories
+.expo
+.expo-shared
+
+# Environment files
+.env.development
+.env.stage
+.env.production
